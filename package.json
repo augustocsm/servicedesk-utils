@@ -1,0 +1,18 @@
+{
+  "name": "servicedesk-utils",
+  "version": "1.0.0",
+  "description": "Utilities for ServiceDesk Plus Ondemand",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "Augusto Mesquita",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "got": "^11.0.2"
+  }
+}
