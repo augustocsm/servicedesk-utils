@@ -1,4 +1,4 @@
-# ManageEngine's ServiceDesk Plus Ondemand API Utilities
+# ManageEngine's Servicedesk Plus on-demand API utilities
 
 servicedesk-utils
 Good with NodeJS v12
